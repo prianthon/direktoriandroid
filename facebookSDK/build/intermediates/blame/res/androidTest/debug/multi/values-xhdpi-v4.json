@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/priantonsubardio/Downloads/code/StoreFinder v1.1.5 Android/StoreFinder v1.1.5/StoreFinder/facebookSDK/build/intermediates/res/merged/androidTest/debug/values-xhdpi-v4/values-xhdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "/Users/priantonsubardio/Downloads/code/StoreFinder v1.1.5 Android/StoreFinder v1.1.5/StoreFinder/facebookSDK/build/intermediates/bundles/debug/res/values-xhdpi-v4/values-xhdpi-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 63,
+                        "endOffset": 114
+                    }
+                }
+            }
+        ]
+    }
+]
