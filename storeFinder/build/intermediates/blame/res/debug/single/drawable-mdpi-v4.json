@@ -108,12 +108,12 @@
         "source": "/Users/priantonsubardio/Downloads/code/StoreFinder v1.1.5 Android/StoreFinder v1.1.5/StoreFinder/storeFinder/src/main/res/drawable-mdpi/button_facebook_large.png"
     },
     {
-        "merged": "/Users/priantonsubardio/Downloads/code/StoreFinder v1.1.5 Android/StoreFinder v1.1.5/StoreFinder/storeFinder/build/intermediates/res/merged/debug/drawable-mdpi-v4/map_pin_orange.png",
-        "source": "/Users/priantonsubardio/Downloads/code/StoreFinder v1.1.5 Android/StoreFinder v1.1.5/StoreFinder/storeFinder/src/main/res/drawable-mdpi/map_pin_orange.png"
-    },
-    {
         "merged": "/Users/priantonsubardio/Downloads/code/StoreFinder v1.1.5 Android/StoreFinder v1.1.5/StoreFinder/storeFinder/build/intermediates/res/merged/debug/drawable-mdpi-v4/com_facebook_button_blue_focused.9.png",
         "source": "/Users/priantonsubardio/Downloads/code/StoreFinder v1.1.5 Android/StoreFinder v1.1.5/StoreFinder/storeFinder/build/intermediates/exploded-aar/StoreFinder/facebookSDK/unspecified/res/drawable-mdpi-v4/com_facebook_button_blue_focused.9.png"
+    },
+    {
+        "merged": "/Users/priantonsubardio/Downloads/code/StoreFinder v1.1.5 Android/StoreFinder v1.1.5/StoreFinder/storeFinder/build/intermediates/res/merged/debug/drawable-mdpi-v4/map_pin_orange.png",
+        "source": "/Users/priantonsubardio/Downloads/code/StoreFinder v1.1.5 Android/StoreFinder v1.1.5/StoreFinder/storeFinder/src/main/res/drawable-mdpi/map_pin_orange.png"
     },
     {
         "merged": "/Users/priantonsubardio/Downloads/code/StoreFinder v1.1.5 Android/StoreFinder v1.1.5/StoreFinder/storeFinder/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_menu.png",

@@ -1,15 +1,15 @@
 [
     {
-        "merged": "/Users/priantonsubardio/Downloads/code/StoreFinder v1.1.5 Android/StoreFinder v1.1.5/StoreFinder/storeFinder/build/intermediates/res/merged/debug/drawable-xhdpi-v4/map_info_placeholder.png",
-        "source": "/Users/priantonsubardio/Downloads/code/StoreFinder v1.1.5 Android/StoreFinder v1.1.5/StoreFinder/storeFinder/src/main/res/drawable-xhdpi/map_info_placeholder.png"
+        "merged": "/Users/priantonsubardio/Downloads/code/StoreFinder v1.1.5 Android/StoreFinder v1.1.5/StoreFinder/storeFinder/build/intermediates/res/merged/debug/drawable-xhdpi-v4/image_viewer_placeholder.png",
+        "source": "/Users/priantonsubardio/Downloads/code/StoreFinder v1.1.5 Android/StoreFinder v1.1.5/StoreFinder/storeFinder/src/main/res/drawable-xhdpi/image_viewer_placeholder.png"
     },
     {
         "merged": "/Users/priantonsubardio/Downloads/code/StoreFinder v1.1.5 Android/StoreFinder v1.1.5/StoreFinder/storeFinder/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bg_slider_handle_selected.png",
         "source": "/Users/priantonsubardio/Downloads/code/StoreFinder v1.1.5 Android/StoreFinder v1.1.5/StoreFinder/storeFinder/src/main/res/drawable-xhdpi/bg_slider_handle_selected.png"
     },
     {
-        "merged": "/Users/priantonsubardio/Downloads/code/StoreFinder v1.1.5 Android/StoreFinder v1.1.5/StoreFinder/storeFinder/build/intermediates/res/merged/debug/drawable-xhdpi-v4/image_viewer_placeholder.png",
-        "source": "/Users/priantonsubardio/Downloads/code/StoreFinder v1.1.5 Android/StoreFinder v1.1.5/StoreFinder/storeFinder/src/main/res/drawable-xhdpi/image_viewer_placeholder.png"
+        "merged": "/Users/priantonsubardio/Downloads/code/StoreFinder v1.1.5 Android/StoreFinder v1.1.5/StoreFinder/storeFinder/build/intermediates/res/merged/debug/drawable-xhdpi-v4/map_info_placeholder.png",
+        "source": "/Users/priantonsubardio/Downloads/code/StoreFinder v1.1.5 Android/StoreFinder v1.1.5/StoreFinder/storeFinder/src/main/res/drawable-xhdpi/map_info_placeholder.png"
     },
     {
         "merged": "/Users/priantonsubardio/Downloads/code/StoreFinder v1.1.5 Android/StoreFinder v1.1.5/StoreFinder/storeFinder/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tag_starred.png",
@@ -44,40 +44,40 @@
         "source": "/Users/priantonsubardio/Downloads/code/StoreFinder v1.1.5 Android/StoreFinder v1.1.5/StoreFinder/storeFinder/src/main/res/drawable-xhdpi/ic_search.png"
     },
     {
-        "merged": "/Users/priantonsubardio/Downloads/code/StoreFinder v1.1.5 Android/StoreFinder v1.1.5/StoreFinder/storeFinder/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_signin_btn_text_disabled_dark.9.png",
-        "source": "/Users/priantonsubardio/Downloads/code/StoreFinder v1.1.5 Android/StoreFinder v1.1.5/StoreFinder/storeFinder/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.0.89/res/drawable-xhdpi/common_signin_btn_text_disabled_dark.9.png"
-    },
-    {
         "merged": "/Users/priantonsubardio/Downloads/code/StoreFinder v1.1.5 Android/StoreFinder v1.1.5/StoreFinder/storeFinder/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bg_splash.png",
         "source": "/Users/priantonsubardio/Downloads/code/StoreFinder v1.1.5 Android/StoreFinder v1.1.5/StoreFinder/storeFinder/src/main/res/drawable-xhdpi/bg_splash.png"
+    },
+    {
+        "merged": "/Users/priantonsubardio/Downloads/code/StoreFinder v1.1.5 Android/StoreFinder v1.1.5/StoreFinder/storeFinder/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_signin_btn_text_disabled_dark.9.png",
+        "source": "/Users/priantonsubardio/Downloads/code/StoreFinder v1.1.5 Android/StoreFinder v1.1.5/StoreFinder/storeFinder/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.0.89/res/drawable-xhdpi/common_signin_btn_text_disabled_dark.9.png"
     },
     {
         "merged": "/Users/priantonsubardio/Downloads/code/StoreFinder v1.1.5 Android/StoreFinder v1.1.5/StoreFinder/storeFinder/build/intermediates/res/merged/debug/drawable-xhdpi-v4/com_facebook_button_blue_pressed.9.png",
         "source": "/Users/priantonsubardio/Downloads/code/StoreFinder v1.1.5 Android/StoreFinder v1.1.5/StoreFinder/storeFinder/build/intermediates/exploded-aar/StoreFinder/facebookSDK/unspecified/res/drawable-xhdpi-v4/com_facebook_button_blue_pressed.9.png"
     },
     {
-        "merged": "/Users/priantonsubardio/Downloads/code/StoreFinder v1.1.5 Android/StoreFinder v1.1.5/StoreFinder/storeFinder/build/intermediates/res/merged/debug/drawable-xhdpi-v4/button_login_large.png",
-        "source": "/Users/priantonsubardio/Downloads/code/StoreFinder v1.1.5 Android/StoreFinder v1.1.5/StoreFinder/storeFinder/src/main/res/drawable-xhdpi/button_login_large.png"
+        "merged": "/Users/priantonsubardio/Downloads/code/StoreFinder v1.1.5 Android/StoreFinder v1.1.5/StoreFinder/storeFinder/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_map_nearby.png",
+        "source": "/Users/priantonsubardio/Downloads/code/StoreFinder v1.1.5 Android/StoreFinder v1.1.5/StoreFinder/storeFinder/src/main/res/drawable-xhdpi/ic_map_nearby.png"
     },
     {
         "merged": "/Users/priantonsubardio/Downloads/code/StoreFinder v1.1.5 Android/StoreFinder v1.1.5/StoreFinder/storeFinder/build/intermediates/res/merged/debug/drawable-xhdpi-v4/textbox_search_normal.png",
         "source": "/Users/priantonsubardio/Downloads/code/StoreFinder v1.1.5 Android/StoreFinder v1.1.5/StoreFinder/storeFinder/src/main/res/drawable-xhdpi/textbox_search_normal.png"
     },
     {
-        "merged": "/Users/priantonsubardio/Downloads/code/StoreFinder v1.1.5 Android/StoreFinder v1.1.5/StoreFinder/storeFinder/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_map_nearby.png",
-        "source": "/Users/priantonsubardio/Downloads/code/StoreFinder v1.1.5 Android/StoreFinder v1.1.5/StoreFinder/storeFinder/src/main/res/drawable-xhdpi/ic_map_nearby.png"
+        "merged": "/Users/priantonsubardio/Downloads/code/StoreFinder v1.1.5 Android/StoreFinder v1.1.5/StoreFinder/storeFinder/build/intermediates/res/merged/debug/drawable-xhdpi-v4/button_login_large.png",
+        "source": "/Users/priantonsubardio/Downloads/code/StoreFinder v1.1.5 Android/StoreFinder v1.1.5/StoreFinder/storeFinder/src/main/res/drawable-xhdpi/button_login_large.png"
     },
     {
         "merged": "/Users/priantonsubardio/Downloads/code/StoreFinder v1.1.5 Android/StoreFinder v1.1.5/StoreFinder/storeFinder/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_signin_btn_icon_normal_light.9.png",
         "source": "/Users/priantonsubardio/Downloads/code/StoreFinder v1.1.5 Android/StoreFinder v1.1.5/StoreFinder/storeFinder/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.0.89/res/drawable-xhdpi/common_signin_btn_icon_normal_light.9.png"
     },
     {
-        "merged": "/Users/priantonsubardio/Downloads/code/StoreFinder v1.1.5 Android/StoreFinder v1.1.5/StoreFinder/storeFinder/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_check.png",
-        "source": "/Users/priantonsubardio/Downloads/code/StoreFinder v1.1.5 Android/StoreFinder v1.1.5/StoreFinder/storeFinder/src/main/res/drawable-xhdpi/ic_check.png"
-    },
-    {
         "merged": "/Users/priantonsubardio/Downloads/code/StoreFinder v1.1.5 Android/StoreFinder v1.1.5/StoreFinder/storeFinder/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_signin_btn_text_disabled_light.9.png",
         "source": "/Users/priantonsubardio/Downloads/code/StoreFinder v1.1.5 Android/StoreFinder v1.1.5/StoreFinder/storeFinder/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.0.89/res/drawable-xhdpi/common_signin_btn_text_disabled_light.9.png"
+    },
+    {
+        "merged": "/Users/priantonsubardio/Downloads/code/StoreFinder v1.1.5 Android/StoreFinder v1.1.5/StoreFinder/storeFinder/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_check.png",
+        "source": "/Users/priantonsubardio/Downloads/code/StoreFinder v1.1.5 Android/StoreFinder v1.1.5/StoreFinder/storeFinder/src/main/res/drawable-xhdpi/ic_check.png"
     },
     {
         "merged": "/Users/priantonsubardio/Downloads/code/StoreFinder v1.1.5 Android/StoreFinder v1.1.5/StoreFinder/storeFinder/build/intermediates/res/merged/debug/drawable-xhdpi-v4/button_email.png",

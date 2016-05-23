@@ -2,20 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05f2d2f8-f7c0-4a4c-b210-035d52263b74" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storeFinder/src/main/res/drawable-hdpi/bg_header_aboutus.png" afterPath="$PROJECT_DIR$/storeFinder/src/main/res/drawable-hdpi/bg_header_aboutus.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storeFinder/src/main/res/drawable-hdpi/bg_splash.png" afterPath="$PROJECT_DIR$/storeFinder/src/main/res/drawable-hdpi/bg_splash.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storeFinder/src/main/res/drawable-hdpi/header_logo.png" afterPath="$PROJECT_DIR$/storeFinder/src/main/res/drawable-hdpi/header_logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storeFinder/src/main/res/drawable-hdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/storeFinder/src/main/res/drawable-hdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storeFinder/src/main/res/drawable-mdpi/bg_header_aboutus.png" afterPath="$PROJECT_DIR$/storeFinder/src/main/res/drawable-mdpi/bg_header_aboutus.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storeFinder/src/main/res/drawable-mdpi/bg_splash.png" afterPath="$PROJECT_DIR$/storeFinder/src/main/res/drawable-mdpi/bg_splash.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storeFinder/src/main/res/drawable-mdpi/header_logo.png" afterPath="$PROJECT_DIR$/storeFinder/src/main/res/drawable-mdpi/header_logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storeFinder/src/main/res/drawable-mdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/storeFinder/src/main/res/drawable-mdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storeFinder/src/main/res/drawable-xhdpi/bg_header_aboutus.png" afterPath="$PROJECT_DIR$/storeFinder/src/main/res/drawable-xhdpi/bg_header_aboutus.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storeFinder/src/main/res/drawable-xhdpi/bg_splash.png" afterPath="$PROJECT_DIR$/storeFinder/src/main/res/drawable-xhdpi/bg_splash.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storeFinder/src/main/res/drawable-xhdpi/header_logo.png" afterPath="$PROJECT_DIR$/storeFinder/src/main/res/drawable-xhdpi/header_logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storeFinder/src/main/res/drawable-xhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/storeFinder/src/main/res/drawable-xhdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storeFinder/src/main/res/drawable-xxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/storeFinder/src/main/res/drawable-xxhdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/outputFileStates.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storeFinder/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_header_aboutus.png" afterPath="$PROJECT_DIR$/storeFinder/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_header_aboutus.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storeFinder/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_splash.png" afterPath="$PROJECT_DIR$/storeFinder/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_splash.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storeFinder/build/intermediates/res/merged/debug/drawable-hdpi-v4/header_logo.png" afterPath="$PROJECT_DIR$/storeFinder/build/intermediates/res/merged/debug/drawable-hdpi-v4/header_logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storeFinder/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png" afterPath="$PROJECT_DIR$/storeFinder/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storeFinder/build/intermediates/res/merged/debug/drawable-mdpi-v4/bg_header_aboutus.png" afterPath="$PROJECT_DIR$/storeFinder/build/intermediates/res/merged/debug/drawable-mdpi-v4/bg_header_aboutus.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storeFinder/build/intermediates/res/merged/debug/drawable-mdpi-v4/bg_splash.png" afterPath="$PROJECT_DIR$/storeFinder/build/intermediates/res/merged/debug/drawable-mdpi-v4/bg_splash.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storeFinder/build/intermediates/res/merged/debug/drawable-mdpi-v4/header_logo.png" afterPath="$PROJECT_DIR$/storeFinder/build/intermediates/res/merged/debug/drawable-mdpi-v4/header_logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storeFinder/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png" afterPath="$PROJECT_DIR$/storeFinder/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storeFinder/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bg_header_aboutus.png" afterPath="$PROJECT_DIR$/storeFinder/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bg_header_aboutus.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storeFinder/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bg_splash.png" afterPath="$PROJECT_DIR$/storeFinder/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bg_splash.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storeFinder/build/intermediates/res/merged/debug/drawable-xhdpi-v4/header_logo.png" afterPath="$PROJECT_DIR$/storeFinder/build/intermediates/res/merged/debug/drawable-xhdpi-v4/header_logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storeFinder/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png" afterPath="$PROJECT_DIR$/storeFinder/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storeFinder/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_launcher.png" afterPath="$PROJECT_DIR$/storeFinder/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storeFinder/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/storeFinder/build/intermediates/res/resources-debug.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storeFinder/build/outputs/apk/storeFinder-debug-unaligned.apk" afterPath="$PROJECT_DIR$/storeFinder/build/outputs/apk/storeFinder-debug-unaligned.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebookSDK/facebookSDK.iml" afterPath="$PROJECT_DIR$/facebookSDK/facebookSDK.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storeFinder/build/intermediates/blame/res/debug/single/drawable-mdpi-v4.json" afterPath="$PROJECT_DIR$/storeFinder/build/intermediates/blame/res/debug/single/drawable-mdpi-v4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storeFinder/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" afterPath="$PROJECT_DIR$/storeFinder/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storeFinder/storeFinder.iml" afterPath="$PROJECT_DIR$/storeFinder/storeFinder.iml" />
     </list>
     <ignored path="StoreFinder.iws" />
     <ignored path=".idea/workspace.xml" />
