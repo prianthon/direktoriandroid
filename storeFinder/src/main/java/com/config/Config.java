@@ -3,10 +3,10 @@ package com.config;
 public class Config {
 
 	// Change this on your own consumer key
-	public static final String TWITTER_CONSUMER_KEY = "R0u1hsVNb1lOEMzbxW6Ju1jcm";
+	public static final String TWITTER_CONSUMER_KEY = "WKUnfoLa7NRWZ5CbUpOgZcrqO";
 	
 	// Change this on your own consumer secret
-	public static final String TWITTER_CONSUMER_SECRET = "CGIZRrb7mabu16g89U1Uz1oDKor7qxWkqpQy4KLfmWzA9VsQBd";
+	public static final String TWITTER_CONSUMER_SECRET = "MWhO8Kx237A7IMw58aRRCzI6fXb1kjWuyFXc24gy4NOYVpzFcr";
 	
 	// Set to true if you want to display test ads in emulator
 	public static final boolean TEST_ADS_USING_EMULATOR = true;
